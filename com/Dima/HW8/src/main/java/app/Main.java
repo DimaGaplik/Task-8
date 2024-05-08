@@ -38,7 +38,7 @@ public class Main {
         if (result == -1) {
             System.out.println("Число " + target + " не найдено в массиве.");
         } else {
-            System.out.println(" Індекс числа " + target + " у відсортованому масиві " + result);
+            System.out.println(" Індекс числа " + target + " у відсортованому масиві: " + result);
         }
     }
 
